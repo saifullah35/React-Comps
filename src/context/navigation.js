@@ -31,3 +31,5 @@ function NavigationProvider() {
 
 export { NavigationProvider };
 export default NavigationContext;
+
+// Use a link component anytime a user is trying to go to a path inside of our app
